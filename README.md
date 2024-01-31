@@ -24,7 +24,7 @@ Assignment 2 : Video
 -Reflection:
 
 Assignment 3 : Report
--Reflection: Over the next four years, I aim to specialize as a system developer in game development. To achieve this, I plan to not only enhance my programming skills, with a focus on graphics and software design but also diversify my skill set by exploring various languages and frameworks relevant to system development. Actively participating in hands-on projects, focusing on database management, security, and cloud computing, will be my priority to gain practical experience and showcase my versatility.
+\n-Reflection: Over the next four years, I aim to specialize as a system developer in game development. To achieve this, I plan to not only enhance my programming skills, with a focus on graphics and software design but also diversify my skill set by exploring various languages and frameworks relevant to system development. Actively participating in hands-on projects, focusing on database management, security, and cloud computing, will be my priority to gain practical experience and showcase my versatility.
 
 Assignment 4 : Industrial Visit (Newsletter)
 [Industrial Visit (Newsletter).pdf](https://github.com/deenadeeya/deenadeeya/files/14114997/Industrial.Visit.Newsletter.pdf)
