@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Design Thinking Report:
+[DesignThinking_Report.pdf](https://github.com/deenadeeya/deenadeeya/files/14114782/DesignThinking_Report.pdf)
