@@ -15,5 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Assignment 1 : Poster on Industry Talk 1
+[Industry Talk 1 Poster.pdf](https://github.com/deenadeeya/deenadeeya/files/14115051/Industry.Talk.1.Poster.pdf)
+
+Assignment 2 : Video
+
+Assignment 3 : Report
+
+Assignment 4 : Industrial Visit (Newsletter)
+[Industrial Visit (Newsletter).pdf](https://github.com/deenadeeya/deenadeeya/files/14114997/Industrial.Visit.Newsletter.pdf)
+
+PC Assembly:
+[PC Assembly Nadeeya.pdf](https://github.com/deenadeeya/deenadeeya/files/14114900/PC.Assembly.Nadeeya.pdf)
+
 Design Thinking Report:
 [DesignThinking_Report.pdf](https://github.com/deenadeeya/deenadeeya/files/14114782/DesignThinking_Report.pdf)
+
+Design Thinking Video:
+https://www.youtube.com/watch?v=BesRILGXe_M
+
+
+
