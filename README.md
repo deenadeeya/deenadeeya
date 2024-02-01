@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome🤗
 
 <!--
 **deenadeeya/deenadeeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Nadeeya and I'm doing a bachelor's degree in Software Engineering at Kuala Lumpur. My interests are art, nature, fiction novels and technology. 
+My name is Nadeeya and I'm doing a bachelor's degree in Software Engineering at Kuala Lumpur. 
 
-The programming languages that I'm learning are Java, HTML and C++. 
+My interests are art, nature, fiction novels and technology✨. I'm also obsessed with cats....
+
+The programming languages that I'm learning are Java, HTML and C++💻.
