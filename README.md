@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My name is Nadeeya and I'm doing a bachelor's degree in Software Engineering at Kuala Lumpur. My interests are art, nature, fiction novels and technology. 
+
+The programming languages that I'm learning are Java, HTML and C++. 
