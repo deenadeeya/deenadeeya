@@ -1,4 +1,4 @@
-### Welcome🤗
+### Welcome🎶😸
 
 <!--
 **deenadeeya/deenadeeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 This semester, I'm working on:
 - **DormBuddy** – A mobile app for UTMKL students to find rental properties near campus.
 - **SRIAAWP ActivHub** – A website to manage co-curricular records at a local school.
+
+---
+
+- I'm also interested in **team collaboration and group management**, and thrive working in structured, organized development teams.
 
 ---
 
