@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## 📱 Current Projects
 This semester, I'm working on:
 - **DormBuddy** – A mobile app for UTMKL students to find rental properties near campus.
-- **SRIAWWP ActivHub** – A website to manage co-curricular records at a local school.
+- **SRIAAWP ActivHub** – A website to manage co-curricular records at a local school.
 
 ---
 
