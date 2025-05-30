@@ -15,8 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Nadeeya and I'm doing a bachelor's degree in Software Engineering at Kuala Lumpur. 
+# 👋 Hey there, I'm Nadeeya!
 
-My interests are art, nature, fiction novels and technology✨. I'm also obsessed with cats....
+🎓 A CS (Software Engineering) student based in Kuala Lumpur  
+📱 Interested in tech that blends creativity and helps people!
 
-The programming languages that I'm learning are Java, HTML and C++💻.
+---
+
+## 🛠️ Tech Stack & Tools
+- Mobile App Dev: **Flutter**, **Dart**
+- Web Dev: **HTML/CSS**, **JavaScript**
+- Backend & DB: **MySQL**, **PHP**
+- Languages: **Java**, **C++**, **Python**
+
+---
+
+## 📱 Current Projects
+This semester, I'm working on:
+- **DormBuddy** – A mobile app for UTMKL students to find rental properties near campus and match with co-tenants.
+- **SRIAWWP ActivHub** – A website to manage co-curricular records at a local school.
+
+---
+
+## 🌿 Interests
+- 🎨 Art & creativity  
+- 📚 Novels & comics  
+- 🐾 Cats (not shocking at all)  
+- 🌱 Nature & outdoor vibes  
+- ✨ Merging tech with real-world impact  
+
