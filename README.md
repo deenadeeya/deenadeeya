@@ -35,9 +35,6 @@ This semester, I'm working on:
 - **DormBuddy** – A mobile app for UTMKL students to find rental properties near campus.
 - **SRIAAWP ActivHub** – A website to manage co-curricular records at a local school.
 
----
-
-- I'm also interested in **team collaboration and group management**, and thrive working in structured, organized development teams.
 
 ---
 
@@ -46,5 +43,10 @@ This semester, I'm working on:
 - 📚 Novels & comics  
 - 🐾 Cats (not shocking at all)  
 - 🌱 Nature & outdoor vibes  
-- ✨ Merging tech with real-world impact  
+- ✨ Merging tech with real-world impact
+
+---
+
+- I'm also interested in **team collaboration and group management**, and thrive working in structured, organized development teams.
+- Long live matcha latte.
 
