@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠️ Tech Stack & Tools
-- Mobile App Dev: **Flutter**, **Dart**
-- Web Dev: **HTML/CSS**, **JavaScript**
-- Backend & DB: **MySQL**, **PHP**
-- Languages: **Java**, **C++**, **Python**
+## 🛠️ Tech Stack & Tools (Improving & Growing)
+- **Mobile App Development**: Flutter, Dart  
+- **Web Development**: HTML/CSS, JavaScript  
+- **Backend & Databases**: MySQL, PHP  
+- **Programming Languages**: Java, C++, Python
 
 ---
 
@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 This semester, I'm working on:
 - **DormBuddy** – A mobile app for UTMKL students to find rental properties near campus.
 - **SRIAAWP ActivHub** – A website to manage co-curricular records at a local school.
-
 
 ---
 
